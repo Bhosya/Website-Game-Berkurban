@@ -36,7 +36,6 @@ Sebuah website interaktif bertema **Idul Adha**, dibuat untuk mengedukasi penggu
 - ⚛️ React.js
 - 🎨 Tailwind CSS
 - 📱 Mobile-First Design
-- (Opsional) Next.js / Vite
 
 ---
 
@@ -45,7 +44,7 @@ Sebuah website interaktif bertema **Idul Adha**, dibuat untuk mengedukasi penggu
 ```bash
 # 1. Clone repositori ini
 git clone https://github.com/Bhosya/Website-Game-Berkurban.git
-cd kurban-game
+cd Website-Game-Berkurban
 
 # 2. Install dependencies
 npm install
