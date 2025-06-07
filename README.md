@@ -44,7 +44,7 @@ Sebuah website interaktif bertema **Idul Adha**, dibuat untuk mengedukasi penggu
 
 ```bash
 # 1. Clone repositori ini
-git clone https://github.com/username/kurban-game.git
+git clone https://github.com/Bhosya/Website-Game-Berkurban.git
 cd kurban-game
 
 # 2. Install dependencies
